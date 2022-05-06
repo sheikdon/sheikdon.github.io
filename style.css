@@ -1,1 +1,16 @@
+body{
+  background-color:black;
+    color:white;
+  font-family:Arial,Helvitica,sans-serif;
+  margin: 5% 10%;
+}
+img {
+  width:50%;
+}
 
+.exp-header {
+  text-align: center;
+  text-transform: uppercase;
+  border-top:2px solid;
+  background-color:brown
+}
