@@ -6,6 +6,7 @@ body{
 }
 img {
   width:50%;
+ 
 }
 
 .exp-header {
@@ -13,4 +14,8 @@ img {
   text-transform: uppercase;
   border-top:2px solid;
   background-color:brown
+}
+
+.info {
+  text-align: center;
 }
